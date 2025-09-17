@@ -1,0 +1,51 @@
+  <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">Do I need porta-potties for a small event at home?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, and you’ll be glad you had them. Small gatherings can overwhelm your home’s plumbing. Having a clean, separate facility for guests saves your restroom from overuse and keeps everyone more comfortable.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you service the units during the rental period?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we service our units according to your schedule. This includes cleaning, restocking, and general upkeep to make sure everything stays hygienic and ready to use for as long as you have them.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I book a porta potty just a day ahead?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, you can. If you suddenly realize you need a porta potty for tomorrow’s event or project, just reach out to us. As long as we have units available, we’ll deliver on time.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I request more porta-potties if my guest count increases unexpectedly?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Of course. We understand that guest numbers can sometimes go beyond what was planned. If you ever find yourself in that situation, just give us a call. We’ll arrange for additional units to be delivered quickly.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do your porta-potties start to smell after multiple uses?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Not ours. All our units are properly ventilated and treated with eco-friendly deodorizing solutions that control odor, even with heavy use. Besides, we schedule service and restock the units during the rental period.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I rent your hand sanitizers or portable sinks without renting restrooms?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, you can. Our portable sinks and hand sanitizer stations are available as standalone rentals.</p>
+                <div class="callalooma mx-auto"><a href="tel:801-441-6223">Click Here To Call Us (801) 441-6223</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+
+   <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
